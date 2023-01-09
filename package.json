@@ -1,0 +1,16 @@
+{
+  "name": "deploy-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://kennywright012.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
